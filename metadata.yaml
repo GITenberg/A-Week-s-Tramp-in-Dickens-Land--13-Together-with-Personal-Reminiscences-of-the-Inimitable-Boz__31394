@@ -1,0 +1,41 @@
+_repo: A-Week-s-Tramp-in-Dickens-Land--13-Together-with-Personal-Reminiscences-of-the-Inimitable-Boz__31394
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kitton, Frederic George
+    aliases:
+    - Kitton, Frederic G. (Frederic George)
+    - Kitton, F. G. (Frederic George)
+    - Kitton, Fred G. (Frederic George)
+    birthdate: 1856
+    deathdate: 1904
+    gutenberg_agent_id: '35197'
+    url: http://www.gutenberg.org/2009/agents/35197
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hughes, William R. (William Richard)
+    alias: Hughes, William Richard
+    birthdate: 1830
+    deathdate: 1899
+    gutenberg_agent_id: '35196'
+    url: http://www.gutenberg.org/2009/agents/35196
+description: ''
+gutenberg_issued: '2010-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31394'
+  lccn: '03003652'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Description and travel'
+- !lcc 'PR'
+- !lcsh 'Dickens, Charles, 1812-1870'
+title: "A Week's Tramp in Dickens-Land\r\nTogether with Personal Reminiscences of\
+  \ the 'Inimitable Boz' Therein Collected"
+url: http://www.gutenberg.org/ebooks/31394
