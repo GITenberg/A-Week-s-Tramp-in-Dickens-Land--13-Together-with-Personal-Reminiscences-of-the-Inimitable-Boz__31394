@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '35196'
     url: http://www.gutenberg.org/2009/agents/35196
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31394#A-Week-s-Tramp-in-Dickens-Land--13-Together-with-Personal-Reminiscences-of-the-Inimitable-Boz_
 gutenberg_issued: '2010-02-25'
 gutenberg_type: Text
 identifiers:
